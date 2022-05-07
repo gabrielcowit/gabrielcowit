@@ -1,7 +1,4 @@
-## 👋 Hello World, I'm Gabriel Carvalho
-
-Senior NodeJS Developer
------------------------
+### 👋 Hello World, I'm Gabriel Carvalho
 
 * 🌍  I'm based in Curitiba, Brazil
 * ✉️  You can contact me at [hi@gabrielcarvalho.dev](mailto:hi@gabrielcarvalho.dev)
