@@ -1,8 +1,8 @@
 ### 👋 Hello World, I'm Gabriel Carvalho
 
-* 🌍  I'm based in Curitiba, Brazil
+* 🌍 Based in Curitiba, Brazil
+* 🧠 Learning NestJs, Typescript, TDD, Clean Arch
 * ✉️  You can contact me at [hi@gabrielcarvalho.dev](mailto:hi@gabrielcarvalho.dev)
-* 🧠  I'm learning NestJs, Typescript, TDD, Clean Arch
 
 #### :link: Connect with me
 
@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/gabriel-carvalho-silva/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /></a> <a href="https://www.github.com/gabrielcowit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="28" height="28" /></a> <a href="http://www.instagram.com/gabcarvalho1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="28" height="28" /></a>
 </p>
 
-#### Backend Skills
+#### :alien: Backend Skills
 
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
@@ -21,7 +21,7 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 </p>
 
-#### Frontend Skills
+#### :space_invader: Frontend Skills
 
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -33,7 +33,7 @@
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 </p>
 
-#### Data Skills
+#### :bucket: Data Skills
 
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
