@@ -1,5 +1,4 @@
-👋 Hello World, I'm Gabriel Carvalho
-=================================
+## 👋 Hello World, I'm Gabriel Carvalho
 
 Senior NodeJS Developer
 -----------------------
