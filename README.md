@@ -4,7 +4,7 @@
 * ✉️  You can contact me at [hi@gabrielcarvalho.dev](mailto:hi@gabrielcarvalho.dev)
 * 🧠  I'm learning NestJs, Typescript, TDD, Clean Arch
 
-### Connect with me
+#### :link: Connect with me
 
 <p align="left">
 <a href="https://www.github.com/gabrielcowit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
