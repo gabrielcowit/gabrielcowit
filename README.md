@@ -3,7 +3,8 @@
 * 🌍 Based in Curitiba, Brazil
 * :computer: +500k code lines typed
 * 🧠 Learning NestJs, Typescript, TDD, Clean Arch
-* ✉️  You can contact me at [hi@gabrielcarvalho.dev](mailto:hi@gabrielcarvalho.dev)
+
+
 
 #### :link: Connect with me
 
@@ -142,6 +143,41 @@
                 <a href="https://redis.io/" target="_blank" rel="noreferrer">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" />
                 </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+#### :bucket: Tools
+
+<table cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="36" />
+            </td>
+            <td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker" width="36" />
+            </td>
+            <td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="36" />
+            </td>
+            <td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="36" />
+            </td>
+            <td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="36" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="Eslint" width="36" />
+            </td>
+            <td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="36" />
+            </td>
+            <td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" width="36" />
             </td>
         </tr>
     </tbody>
