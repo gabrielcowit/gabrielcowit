@@ -147,9 +147,10 @@
     </tbody>
 </table>
 
-
 #### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/gabrielcowit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielcowit&stroke=ffffff&background=22272e&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=22jckasi4z4lzn3zcgzayyrgi&unique=true&count=3)
