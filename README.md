@@ -115,11 +115,27 @@
 
 #### :bucket: Data Skills
 
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-</p>
+<table cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+                </a>
+            </td>
+            <td>
+                <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+                </a>
+            </td>
+            <td>
+                <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 #### Badges
