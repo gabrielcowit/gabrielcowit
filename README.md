@@ -1,6 +1,7 @@
 ### 👋 Hello World, I'm Gabriel Carvalho
 
 * 🌍 Based in Curitiba, Brazil
+* :computer: +500k code lines typed
 * 🧠 Learning NestJs, Typescript, TDD, Clean Arch
 * ✉️  You can contact me at [hi@gabrielcarvalho.dev](mailto:hi@gabrielcarvalho.dev)
 
