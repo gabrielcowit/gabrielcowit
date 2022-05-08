@@ -130,7 +130,7 @@
             </td>
             <td>
                 <a href="https://oracle.com" target="_blank" rel="noreferrer">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36" />
                 </a>
             </td>
             <td>
