@@ -135,7 +135,7 @@
             </td>
             <td>
                 <a href="https://redis.io/" target="_blank" rel="noreferrer">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" />
                 </a>
             </td>
         </tr>
