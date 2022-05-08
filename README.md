@@ -31,7 +31,7 @@
 
 #### :alien: Backend Skills
 
-<table cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <tbody>
         <tr>
             <td>
