@@ -7,9 +7,27 @@
 
 #### :link: Connect with me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/gabriel-carvalho-silva/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /></a> <a href="https://www.github.com/gabrielcowit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="28" height="28" /></a> <a href="http://www.instagram.com/gabcarvalho1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="28" height="28" /></a>
-</p>
+<table>
+    <tbody>
+        <tr>
+          <td>
+            <a href="https://www.linkedin.com/in/gabriel-carvalho-silva/" target="_blank" rel="noreferrer">
+              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" />
+            </a>
+          </td>
+          <td>
+            <a href="https://www.github.com/gabrielcowit" target="_blank" rel="noreferrer">
+              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="28" height="28" />
+            </a>
+          </td>
+          <td>
+            <a href="http://www.instagram.com/gabcarvalho1" target="_blank" rel="noreferrer">
+              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="28" height="28" />
+            </a>
+          </td>
+      </tr>
+  </tbody>  
+</table>
 
 #### :alien: Backend Skills
 
