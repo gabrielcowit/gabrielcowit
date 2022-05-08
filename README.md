@@ -164,34 +164,34 @@
                 </a>
             </td>
             <td>
-                <a href="!#" rel="noreferrer">
+                <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="36" />
                 </a>
             </td>
             <td>
-                <a href="!#" rel="noreferrer">
+                <a href="https://slack.com/intl/pt-br/" target="_blank" rel="noreferrer">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="36" />
                 </a>
             </td>
             <td>
-                <a href="!#" rel="noreferrer">
+                <a href="https://www.atlassian.com/br/software/jira" target="_blank" rel="noreferrer">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="36" />
                 </a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="!#" rel="noreferrer">
+                <a href="https://eslint.org/" target="_blank" rel="noreferrer">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="Eslint" width="36" />
                 </a>
             </td>
             <td>
-                <a href="!#" rel="noreferrer">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="36" />
+                <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="36" />
                 </a>
             </td>
             <td>
-                <a href="!#" rel="noreferrer">
+                <a href="https://code.visualstudio.com/" rel="noreferrer" target="_blank">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" width="36" />
                 </a>
             </td>
