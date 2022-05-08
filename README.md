@@ -31,7 +31,7 @@
 
 #### :alien: Backend Skills
 
-<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<table cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
             <td>
@@ -131,6 +131,11 @@
             <td>
                 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+                </a>
+            </td>
+            <td>
+                <a href="https://redis.io/" target="_blank" rel="noreferrer">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
                 </a>
             </td>
         </tr>
