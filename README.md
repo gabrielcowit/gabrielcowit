@@ -1,8 +1,8 @@
 ### 👋 Hello World, I'm Gabriel Carvalho
 
-* 🌍 Based in Curitiba, Brazil
+* 🌍 Based in Dublin, Ireland
 * :computer: +500k code lines typed
-* 🧠 Learning NestJs, Typescript, TDD, Clean Arch
+* 🧠 NodeJs, Typescript, TDD, Clean Arch, Serverless - in constant evolution
 
 
 
