@@ -1,8 +1,8 @@
 ### 👋 Hello World, I'm Gabriel Carvalho
 
 * 🌍 Based in Dublin, Ireland
-* :computer: +500k code lines typed
 * 👴 10+ Years of Software Development Experience
+* :computer: +500k code lines typed
 * 🧠 NodeJs, Typescript, TDD, Clean Arch, Serverless - in constant evolution
 
 
