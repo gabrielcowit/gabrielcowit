@@ -2,6 +2,7 @@
 
 * 🌍 Based in Dublin, Ireland
 * :computer: +500k code lines typed
+* 👴 10+ Years of Software Development Experience
 * 🧠 NodeJs, Typescript, TDD, Clean Arch, Serverless - in constant evolution
 
 
